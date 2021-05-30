@@ -9,7 +9,7 @@ Country list app built for Flutter tutorial.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/tanweer919/tatsam-flutter-assignment
+https://github.com/tanweer919/Flutter-tutorial.git
 ```
 
 **Step 2:**
